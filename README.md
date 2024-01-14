@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm Andre "Dimaz", a Web/App Developer, passionate
 
 ### 🌐 Connect with Me
 
-- **Website:** (https://yourwebsite.com)
-- **LinkedIn:** (https://www.linkedin.com/in/d-i-m-a-z-andre-dimas-4a33a928b/)
+- **Website:** [andredimas.com](https://andredimas.com)
+- **LinkedIn:** [Andre Dimas](https://www.linkedin.com/in/d-i-m-a-z-andre-dimas-4a33a928b/)
 - **Email:** andredimas444@gmail.com
 
 ### 🚀 What I Do
