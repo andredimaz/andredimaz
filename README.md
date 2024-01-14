@@ -1,48 +1,45 @@
-# [Your Name]'s GitHub Profile
+# Andre "Dimaz" GitHub Profile
 
 ## 👋 Hello, World!
 
-Welcome to my GitHub profile! I'm [Your Name], a [Your Profession/Role] passionate about [Your Interests or Specializations]. This is where I share my projects, contributions, and experiments.
+Welcome to my GitHub profile! I'm Andre "Dimaz", a Web/App Developer, passionate about Design. This is where I share my projects, contributions, and experiments.
 
 ### 🌐 Connect with Me
 
-- **Website:** [Your Personal Website](https://yourwebsite.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/yourhandle)
-- **Email:** your.email@example.com
+- **Website:** [andredimas.com](https://yourwebsite.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/d-i-m-a-z-andre-dimas-4a33a928b/)
+- **Email:** andredimas444@gmail.com
 
 ### 🚀 What I Do
 
-I specialize in [Your Specialization or Area of Expertise]. My work involves [Brief Description of Your Work]. Some key areas of interest include:
+I specialize in Web/App Development. My work involves designing and develop professional apps and websites. Some key areas of interest include:
 
-- [Interest 1]
-- [Interest 2]
-- [Interest 3]
+- [Web Design]
+- [Web Development]
+- [App Design]
+- [App Development]
 
 ### 🔧 Technologies & Tools
 
 I enjoy working with various technologies and tools. Some of the tools and technologies I frequently use include:
 
-- [Technology 1]
-- [Technology 2]
-- [Technology 3]
+- [Photoshop]
+- [After Effects]
+- [Figma]
+- [Visual Studio]
+- [Eclipse]
+- [JetBrains]
 
 ### 🌱 Current Projects
 
 Here are some of the projects I'm currently working on or have recently completed:
 
-1. [Project 1: Name and Brief Description]
-   - [Link to Project Repository or Website]
-
-2. [Project 2: Name and Brief Description]
-   - [Link to Project Repository or Website]
-
-3. [Project 3: Name and Brief Description]
-   - [Link to Project Repository or Website]
+1. [Project 1: Portfolio]
+   - [</>]
 
 ### 📝 Blog
 
-I occasionally write about my experiences, projects, and insights. Check out my latest articles on my [Blog](https://yourblog.com).
+I occasionally write about my experiences, projects, and insights.
 
 ### 🤝 How to Reach Me
 
