@@ -21,7 +21,7 @@ I specialize in Web/App Development. My work involves designing and develop prof
 
  - [Password Generator](https://github.com/andredimaz/password-generator)
  - [Authentication System](https://github.com/andredimaz/auth-system)
- - [Portfolio](https://github.com/andredimaz/auth-system)
+ - [Portfolio](https://github.com/andredimaz/portfolio)
 
 
 ## 🛠 Languages and Tools
