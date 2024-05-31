@@ -10,6 +10,7 @@ I specialize in Web/App Development. My work involves designing and develop prof
 - Web Development
 - Application Design
 - Application Development
+- Minecraft Plugin Development
 
 
 ## 🔗 Links
